@@ -1,0 +1,11 @@
+| Field | Requirement | Description |
+| --- | --- | --- |
+| id | required | format follows resource_dateofcardrelease |
+| title | required | 85 characters max, with spaces |
+| date | required | format is Monday Day, Year |
+| slug | required | 125 characters max, with spaces |
+| highlight | required | 540 characters max, with spaces |
+| type | required | only one value allowed of the following: News, CCDI Application Updates, Release Notes |
+| img | required | determined by resource updated, select from list below <table><thead><tr><th>Variable</th></tr></thead><tbody><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_CCDC.png">updateImgCCDC</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_New_Application_Release.png">updateImgNewApplicationRelease</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI.png">updateImgMCI</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Symposium.png">updateImgSymposium</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP.png">updateImgMTP</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MTP_2.png">updateImgMTP2</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_MCI_2.png">updateImgMCI2</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Misc_News.png">updateImgMiscNews</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_EHR.png">updateImgEHR</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png">updateImgC3DC</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Release_Notes.png">updateImgReleaseNotes</a></td></tr><tr><td><a href="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_Federation.png">updateImgFederation</a></td></tr></tbody></table> |
+| latestUpdate | optional | true/false |
+| latestUpdateOrder | optional | integer: 1,2,3 |
