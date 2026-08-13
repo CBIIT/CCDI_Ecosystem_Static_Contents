@@ -1,5 +1,5 @@
 # CCDI Data now searchable in Data Federation API
-### March 26, 2026 | CCDI Application Updates
+### March 26, 2026 | CCDI Data Updates
 
 | | |
 | --- | --- |
@@ -27,7 +27,7 @@
 ---
 
 # Molecular Characterization Initiative releases initial data
-### APRIL 5, 2023 | CCDI Application Updates
+### APRIL 5, 2023 | CCDI CCDI Data Updates
 
 | | |
 | --- | --- |
