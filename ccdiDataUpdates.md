@@ -27,7 +27,7 @@
 ---
 
 # Molecular Characterization Initiative releases initial data
-### APRIL 5, 2023 | CCDI CCDI Data Updates
+### APRIL 5, 2023 | CCDI Data Updates
 
 | | |
 | --- | --- |
