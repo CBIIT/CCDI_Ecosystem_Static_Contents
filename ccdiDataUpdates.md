@@ -17,7 +17,7 @@
 
 | | |
 | --- | --- |
-| <p>This release includes newly harmonized data for the following studies: phs001228, phs001714, phs001738, phs001846, phs001878, phs002187, phs002322, and phs003215 along with updates to several existing CCDI datasets. These new datasets add approximately 36,219 participants.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 8/31/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
+| <p>This release includes newly harmonized data for the following studies: phs001228, phs001714, phs001738, phs001846, phs001878, phs002187, phs002322, and phs003215 along with updates to several existing CCDI datasets. These new datasets add approximately 36,219 participants.</p> <p> <i>[Note this announcement was originally posted on C3DC Announcements and was retroactively added to CCDI Hub News feed on 9/10/2026 - full details can be found in C3DC's release notes]</i></p>| <img src="https://raw.githubusercontent.com/CBIIT/CCDI_Hub_Assets/main/Image/News/News_C3DC.png" width="220" alt="updateImgC3DC"> |
 
 | Property | Value |
 | --- | --- |
